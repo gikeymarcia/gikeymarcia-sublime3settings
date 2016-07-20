@@ -1,11 +1,11 @@
 {
-	"color_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Humble.tmTheme",
 	"font_face": "Monaco",
-	"font_size": 17,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Cola.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
