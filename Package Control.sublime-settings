@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"GitHub Flavored Markdown Preview",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JsFormat",
+		"Origami",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Cola",
+		"Theme - Flatland",
+		"Theme - Nexus",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Themr",
+		"TrailingSpaces"
+	]
+}

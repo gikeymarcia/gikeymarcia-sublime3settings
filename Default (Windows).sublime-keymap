@@ -1,0 +1,5 @@
+[
+    { "keys": ["shift+alt+a"], "command": "alignment" },
+    { "keys": ["shift+ctrl+s"], "command": "save_all" },
+    { "keys": ["shift+ctrl+alt+s"], "command": "save_as" }
+]
