@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Anaconda",
 		"ApacheConf.tmLanguage",
 		"BracketHighlighter",
 		"Color Highlighter",

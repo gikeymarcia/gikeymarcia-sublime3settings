@@ -1,11 +1,54 @@
 {
 	"color_scheme": "Packages/Colorsublime - Themes/Humble.tmTheme",
+	"always_show_minimap_viewport": true,
+	"auto_complete_cycle": false,
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"color_scheme": "Packages/Colorsublime - Themes/legacy.tmTheme",
+	"detect_indentation": true,
+	"ensure_newline_at_eof_on_save": false,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		".dropbox",
+		"desktop.ini"
+	],
 	"font_face": "Monaco",
 	"font_size": 14,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"margin": 2,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"show_line_endings": true,
 	"theme": "Cola.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
