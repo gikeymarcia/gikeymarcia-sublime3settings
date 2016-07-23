@@ -1,7 +1,7 @@
 {
     "codeintel_enabled_languages" :
     [
-       "JavaScript", "HTML5", "CSS", "PHP"
+       "JavaScript", "HTML5", "CSS", "PHP", "HTML"
     ],
     "codeintel_snippets": true,
 
