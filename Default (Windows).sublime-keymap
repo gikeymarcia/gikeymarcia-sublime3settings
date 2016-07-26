@@ -1,4 +1,5 @@
 [
     { "keys": ["shift+ctrl+s"], "command": "save_all" },
-    { "keys": ["shift+ctrl+alt+s"], "command": "save_as" }
+    { "keys": ["shift+ctrl+alt+s"], "command": "save_as" },
+    { "keys": ["insert"], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
 ]
