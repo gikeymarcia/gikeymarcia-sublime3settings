@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"AdvancedNewFile",
 		"Anaconda",
 		"ApacheConf.tmLanguage",
@@ -13,6 +14,7 @@
 		"ColorPicker",
 		"Colorsublime",
 		"DocBlockr",
+		"Git",
 		"GitHub Flavored Markdown Preview",
 		"jQuery",
 		"JsFormat",
