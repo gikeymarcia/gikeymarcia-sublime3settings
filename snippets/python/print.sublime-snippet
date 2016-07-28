@@ -1,0 +1,10 @@
+<!-- Source: http://sublimetext.info/docs/en/extensibility/snippets.html -->
+<snippet>
+    <content><![CDATA[print($1)]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>pri</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.python</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description> print</description>
+</snippet>

@@ -1,0 +1,17 @@
+<!-- Source: http://sublimetext.info/docs/en/extensibility/snippets.html -->
+<snippet>
+    <content><![CDATA[snippet content goes here
+this is how you do line returns
+notice that I don't indent since those will become part of the snippet
+this first value:'$1' is what you go to after hitting tab again
+the next value is: '$2'
+this value is a mirror of \$1: '$1-copy'
+
+$3]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>bang</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.python</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>I dont know where this 'menu' is</description>
+</snippet>
