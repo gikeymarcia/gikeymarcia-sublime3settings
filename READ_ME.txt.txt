@@ -15,7 +15,7 @@ How to import these files. To configure your Sublime Text 3
 4. Delete contents of /Package/User folder
    i.  Clone git archive to this folder (don't use a sub-folder)
 	C:\Users\Mikey\AppData\Roaming\Sublime Text 3\Packages\User
-	It should contains a 'Preferences.sublime-settings' file (from step 3.i)
+	It should contain a 'Preferences.sublime-settings' file (from step 3.i)
 
 5. Make a folder for theme files in your Sublime Packages folder
    e.g., C:\Users\Mikey\AppData\Roaming\Sublime Text 3\Packages\Colorsublime - Themes\
