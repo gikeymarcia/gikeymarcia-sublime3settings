@@ -17,13 +17,6 @@ How to import these files. To configure your Sublime Text 3
 	C:\Users\Mikey\AppData\Roaming\Sublime Text 3\Packages\User
 	It should contain a 'Preferences.sublime-settings' file (from step 3.i)
 
-5. Make a folder for theme files in your Sublime Packages folder
-   e.g., C:\Users\Mikey\AppData\Roaming\Sublime Text 3\Packages\Colorsublime - Themes\
-   # you do not yet have the "Colorsublime" package but
-   # it will be downloaded once we turn Sublime back on
+5. Install Monaco font 'monaca.ttf-master/monaco.ttf'
 
-6. Extract contents of Themes.7z to the folder from previous step
-
-7. Install Monaco font from monaca.ttf-master/
-
-8. Turn on Sublime Text 3 and it should all spin up and go after a few restarts 
+6. Turn on Sublime Text 3 and it should all spin up and go after a few restarts
