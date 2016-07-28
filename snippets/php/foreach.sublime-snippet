@@ -1,10 +1,12 @@
 <!-- Source: http://sublimetext.info/docs/en/extensibility/snippets.html -->
 <snippet>
-    <content><![CDATA[print($1)]]></content>
+    <content><![CDATA[foreach (\$${1:array} as \$${2:value}) {
+	${3:// do this stuff}
+}]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
-    <tabTrigger>print</tabTrigger>
+    <tabTrigger>foreach</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->
-    <scope>source.python</scope>
+    <scope>source.php</scope>
     <!-- Optional: Description to show in the menu -->
-    <description>print()</description>
+    <description>foreach($arr as $val) {...</description>
 </snippet>

@@ -1,4 +1,5 @@
 <!-- Source: http://sublimetext.info/docs/en/extensibility/snippets.html -->
+<!-- Possible Source values: https://gist.github.com/iambibhas/4705378 -->
 <snippet>
     <content><![CDATA[snippet content goes here
 this is how you do line returns
