@@ -3,7 +3,7 @@
     <content><![CDATA[from __future__ import division
 from __future__ import print_function
 
-]]></content>
+$1]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>from</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->
