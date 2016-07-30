@@ -1,13 +1,10 @@
 <!-- Source: http://sublimetext.info/docs/en/extensibility/snippets.html -->
 <snippet>
-    <content><![CDATA[from __future__ import division
-from __future__ import print_function
-
-]]></content>
+    <content><![CDATA[replace("$1", "$2")$3]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
-    <tabTrigger>from</tabTrigger>
+    <tabTrigger>replace</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->
     <scope>source.python</scope>
     <!-- Optional: Description to show in the menu -->
-    <description> __future_ imports</description>
+    <description>replace("old", "new", max=optional)</description>
 </snippet>

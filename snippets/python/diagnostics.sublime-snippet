@@ -1,13 +1,13 @@
 <!-- Source: http://sublimetext.info/docs/en/extensibility/snippets.html -->
 <snippet>
-    <content><![CDATA[from __future__ import division
-from __future__ import print_function
-
+    <content><![CDATA[
+print("--${1:name}--", "\n", type($1), "\n", dir($1), "\n", $1, "\n")
+$2
 ]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
-    <tabTrigger>from</tabTrigger>
+    <tabTrigger>printdiagnostics</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->
     <scope>source.python</scope>
     <!-- Optional: Description to show in the menu -->
-    <description> __future_ imports</description>
+    <description>print(diagnostic info)</description>
 </snippet>

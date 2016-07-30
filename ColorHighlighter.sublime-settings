@@ -1,3 +1,4 @@
 {
     "file_exts": [".css", ".php", ".html", ".js", ".sublime-settings", ".tmTheme", ".py", ".md"],
+    "style": "Filled",
 }

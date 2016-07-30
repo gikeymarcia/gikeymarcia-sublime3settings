@@ -1,5 +1,9 @@
 {
     "anaconda_linter_mark_style": "outline",
-    "complete_parameters": true,
-    "complete_all_parameters": true,
+    "complete_parameters": false,
+    "complete_all_parameters": false,
+    "suppress_word_completions": true,
+    "suppress_explicit_completions": false,
+    "anaconda_linter_delay": 5,
+    "anaconda_tooltip_theme": "light",
 }
