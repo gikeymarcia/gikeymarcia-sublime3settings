@@ -1,0 +1,11 @@
+<!-- Source: http://sublimetext.info/docs/en/extensibility/snippets.html -->
+<snippet>
+    <content><![CDATA[strtolower(trim(\$${1:source}));
+$2]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>trim</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>trim(strtolower())</description>
+</snippet>

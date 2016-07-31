@@ -1,0 +1,18 @@
+<!-- Source: http://sublimetext.info/docs/en/extensibility/snippets.html -->
+<snippet>
+    <content><![CDATA[class ${1:ClassName} {
+	public function __construct(${2:args?})
+		{
+			${3:# code...}
+		}
+	$4
+}
+
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>class</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>new class declaration</description>
+</snippet>
