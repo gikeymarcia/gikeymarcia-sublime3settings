@@ -3,7 +3,8 @@
     [
        "JavaScript", "HTML5", "CSS", "PHP", "HTML", "Python"
     ],
-    "codeintel_snippets": false,
+    "codeintel_snippets": true,
+    "codeintel_live": false,
 
 
 }
