@@ -1,3 +1,6 @@
 {
-"color_scheme": "Packages/User/themes/ZeroDarkMatrix.tmTheme",
+    "color_scheme": "Packages/User/themes/ZeroDarkMatrix.tmTheme",
+    "tab_size": 4,
+    "detect_indentation": false,
+    "auto_complete": false,
 }
