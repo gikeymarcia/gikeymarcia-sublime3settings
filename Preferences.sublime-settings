@@ -49,5 +49,6 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"theme": "Cola.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"always_prompt_for_file_reload": false,
 }
